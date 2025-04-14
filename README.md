@@ -22,4 +22,4 @@ In this project, We are developing a retail e-commerce platform using Python ful
 5. MySQL
 
 # Output
-<img width="100%" src="./HomePage.png">
+<img width="100%" src="./brave_screenshot.png>
